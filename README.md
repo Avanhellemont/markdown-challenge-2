@@ -23,8 +23,10 @@
 * you need help
 
 ### A funny story
-I had a rabbit that iranized you my dog. He had a fear of punk. A real little moth.
-#### My dog's nose didn't come out unscathed. He almost had a third nostril
+I had a dwarf rabbit that bullied my dog, a German Shepherd. when my dog ​​approached my rabbit, the latter would come out of its cage and chase the dog through the house. He even climbed onto the couch in pursuit of the dog. A real little tint this rabbit with the punk crest. One day,
+he even almost gave my dog ​​a third nostril.
+#### Anyway, my rabbit scared my dog
 
+---
 
 [<< previous](https://github.com/sachajeunejean/markdown-challenge) || [TANGUY](https://github.com/TanguyC0/markdown-challenge) || [next >>](https://github.com/GeorisVal/markdown-challenge)
