@@ -27,4 +27,4 @@ I had a rabbit that iranized you my dog. He had a fear of punk. A real little mo
 #### My dog's nose didn't come out unscathed. He almost had a third nostril
 
 
-[<< previous]() || [TANGUY]() || [next >>]()
+[<< previous](https://github.com/sachajeunejean/markdown-challenge) || [TANGUY](https://github.com/TanguyC0/markdown-challenge) || [next >>](https://github.com/GeorisVal/markdown-challenge)
