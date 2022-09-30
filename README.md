@@ -26,8 +26,8 @@
 * you need help
 
 ### A funny story
-I had a dwarf rabbit that bullied my dog, a German Shepherd. when my dog ​​approached my rabbit, the latter would come out of its cage and chase the dog through the house. He even climbed onto the couch in pursuit of the dog. A real little tint this rabbit with the punk crest. One day,
-he even almost gave my dog ​​a third nostril.
+I had a dwarf rabbit that bullied my dog, a German Shepherd. when my dog approached my rabbit, the latter would come out of its cage and chase the dog through the house. He even climbed onto the couch in pursuit of the dog. A real little tint this rabbit with the punk crest. One day,
+he even almost gave my dog a third nostril.
 
 #### TL;DR
 Anyway, my rabbit scared my dog
