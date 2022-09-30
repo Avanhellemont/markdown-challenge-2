@@ -6,9 +6,12 @@
 
 ![img](img/DSC_0047.jpg)
 
-| Birthday | Favorite color | Favorite food | Pinneapple on pizza |
-| :--------: | :--: | :--: | :--: |
-| 04/08    | Blue | dagobert | &#9745; |
+|  |  |  
+| :-------- | --: |
+| **Birthday** | 04/08|
+| **Favorite color**    | dagobert | 
+| **Favorite food** |  Blue |
+|**Pinneapple on pizza** |&#9745; |
 
 ## Hobbies
 
@@ -25,7 +28,9 @@
 ### A funny story
 I had a dwarf rabbit that bullied my dog, a German Shepherd. when my dog ​​approached my rabbit, the latter would come out of its cage and chase the dog through the house. He even climbed onto the couch in pursuit of the dog. A real little tint this rabbit with the punk crest. One day,
 he even almost gave my dog ​​a third nostril.
-#### Anyway, my rabbit scared my dog
+
+#### TL;DR
+Anyway, my rabbit scared my dog
 
 ---
 
